@@ -17,6 +17,7 @@ class User{
 
     //This is a method that displays the details of the user
     function get_User_Details(){
+        
         echo "<h1>Name:  ".$this->Name."</h1>";
         echo "<h1>Email:  ".$this->Email."</h1>";
         echo "<h1>Password:  ".$this->Password."</h1>";
