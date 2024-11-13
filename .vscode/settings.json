@@ -3,6 +3,7 @@
     "AUTOINCREMENT",
     "Contruct",
     "ERRMODE",
+    "getmacaddress",
     "Pessima",
     "Servername",
     "Tomsax",
